@@ -1,0 +1,16 @@
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\bin\Debug\netcoreapp3.1\HelloWorld_GUI.exe
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\bin\Debug\netcoreapp3.1\HelloWorld_GUI.deps.json
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\bin\Debug\netcoreapp3.1\HelloWorld_GUI.runtimeconfig.json
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\bin\Debug\netcoreapp3.1\HelloWorld_GUI.runtimeconfig.dev.json
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\bin\Debug\netcoreapp3.1\HelloWorld_GUI.dll
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\bin\Debug\netcoreapp3.1\HelloWorld_GUI.pdb
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.csproj.AssemblyReference.cache
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.Form1.resources
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.csproj.GenerateResource.cache
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.AssemblyInfoInputs.cache
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.AssemblyInfo.cs
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.dll
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.pdb
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\obj\Debug\netcoreapp3.1\HelloWorld_GUI.genruntimeconfig.cache

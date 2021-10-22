@@ -1,0 +1,4 @@
+﻿C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\Form1.cs
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\Form1.Designer.cs
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\Program.cs
+C:\Users\Salmaiturbe\source\repos\HelloWorld_GUI\HelloWorld_GUI\Form1.resx

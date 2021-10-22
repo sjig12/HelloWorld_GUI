@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Salmaiturbe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Salmaiturbe\\.nuget\\packages"
+    ]
+  }
+}
